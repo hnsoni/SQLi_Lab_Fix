@@ -37,7 +37,7 @@ root@kali:/var/www/html/sqli-labs# ls
 So i decided to create a script for this pourpose only.
 Usage:
 1. download the files using:
-  git clone 
+  git clone https://github.com/hnsoni/SQLi_Lab_Fix.git
 2. move the script to the directry where your files are saved.(i.e. to the sqli-labs folder in server directry)
   mv script.sh /var/www/html/sqli-labs/ (as my server directory is "/var/www/html/")
 3. make it exexutable:
@@ -46,3 +46,4 @@ Usage:
   ./script.sh
 5. wait for about 1-2 minutes.
 6. Voila that's it
+
